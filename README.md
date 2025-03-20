@@ -3,7 +3,7 @@ A collection of projects, problem sets, and exercises completed as part of Harva
 
 ## Problem Set 0
 ### Scratch
-- Started Week 0 with a basic idea of what coding entails and a basic intro to using [Scratch](scratch.mit.edu)
+- Started Week 0 with a basic idea of what coding entails and a basic intro to using [Scratch](https://scratch.mit.edu)
 - For the problem set, I had to implement any project of my choice, be it an interactive story, game, animation, or something else, subject to a few conditions.
 - My Scratch project is a simple action game where
   - You use the **Up** and **Down arrow keys** to move Deadpool.
